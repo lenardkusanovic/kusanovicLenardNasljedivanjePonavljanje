@@ -1,0 +1,7 @@
+C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\kusanovicLenardNasljedivanje\kusanovicLenardNasljedivanje\obj\Debug\kusanovicLenardNasljedivanje.csprojAssemblyReference.cache
+C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\kusanovicLenardNasljedivanje\kusanovicLenardNasljedivanje\obj\Debug\kusanovicLenardNasljedivanje.csproj.CoreCompileInputs.cache
+C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\kusanovicLenardNasljedivanje\kusanovicLenardNasljedivanje\bin\Debug\kusanovicLenardNasljedivanje.exe.config
+C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\kusanovicLenardNasljedivanje\kusanovicLenardNasljedivanje\bin\Debug\kusanovicLenardNasljedivanje.exe
+C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\kusanovicLenardNasljedivanje\kusanovicLenardNasljedivanje\bin\Debug\kusanovicLenardNasljedivanje.pdb
+C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\kusanovicLenardNasljedivanje\kusanovicLenardNasljedivanje\obj\Debug\kusanovicLenardNasljedivanje.exe
+C:\Users\Kuso\Desktop\Lenard Skola\Visual Studio skola\kusanovicLenardNasljedivanje\kusanovicLenardNasljedivanje\obj\Debug\kusanovicLenardNasljedivanje.pdb
